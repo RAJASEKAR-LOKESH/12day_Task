@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.parent{
+    width: 100%;
+}
+.subparent1{
+width: 98%;
+margin: 1%;
+}
+.name,.lb-email{
+    
+    display: block;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+.inp{
+    padding: 8px;
+    width: 25%;
+    margin-right: 2%;
+}
+.first{
+    margin-right: 26.7%;
+    margin-top: 2px;
+}
+.email{
+    width: 100%;
+    margin-top: 15px;
+}
+.inp1{
+    padding: 8px;
+    width: 53.8%;
+    margin-right: 2%;
+}
+.experience{
+    width: 100%;
+    margin-top: 15px;
+}
+.fa{
+    color:burlywood;
+    font-size: 24px;
+    margin-right: 2px;
+    margin-bottom: 13px;
+}
+.satisfy{
+    width: 100%;
+    margin-top: 15px;
+}
+table{
+    width: 100%;
+}
+td{
+    padding: 2px;
+}
+
